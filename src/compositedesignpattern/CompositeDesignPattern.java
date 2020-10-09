@@ -7,7 +7,6 @@ package compositedesignpattern;
 
 /**
  *
- * @author MALAK MEHTAB KHAN
  */
 public class CompositeDesignPattern {
 
