@@ -15,7 +15,7 @@ public class CompositeDesignPattern {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        System.out.println("Khaan");
         // TODO code application logic here
    Tourists tourists1=new Tourists("Rashid");
 
